@@ -1,14 +1,11 @@
 import time
 import pandas as pd
 import numpy as np
-<<<<<<< .merge_file_a16020
 # add a new comment in master branch
-||||||| .merge_file_a04308
-
-=======
 # first change
 # second change
->>>>>>> .merge_file_a05892
+# first change
+# second change
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
